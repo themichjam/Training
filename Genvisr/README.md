@@ -1,9 +1,9 @@
-A Gentle Visual Introduction to R with Women in Parliament Open Data
+# A Gentle Visual Introduction to R with Women in Parliament Open Data
 
 Originally developed and funded by the ESRC for the SGSSS Summer School 2020 (9th June)
 
 
-# Introduction
+## Introduction
 
 This is the most basic introduction to R that his meant to be a jumping off point in your journey! This is only a short workshop after all! Some of this work has been influenced by the PsyTeachR iniative at the University of Glasgow, and Saghir Bashir's work with the Women in Parliament dataset. Find lots and lots of useful resources here: https://gupsych.github.io/data_skills/01_intro.html and https://github.com/saghirb/WiP-tidyverse
 
@@ -26,7 +26,7 @@ A Chunk of code is defined as everything within the three ` marks, like this
     # Because we're in an Rmd file and we're in an {r} chunk, all writing is going to 
     # go in comments. Any line that starts with a # is a comment. 
     # In RStudio, these are conveniently green-ed out
-    
+  
     ```
 
 You'll learn much more about formatting Rmd files on your journey, 
